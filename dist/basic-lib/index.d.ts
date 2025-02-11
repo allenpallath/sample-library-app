@@ -1,5 +1,5 @@
 /**
  * Generated bundle index. Do not edit.
  */
-/// <amd-module name="basic-lib-test-789456" />
+/// <amd-module name="@allenpallth/basic-lib" />
 export * from './public-api';
