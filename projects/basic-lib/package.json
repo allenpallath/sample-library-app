@@ -1,5 +1,5 @@
 {
-  "name": "@allenpallth/basic-lib",
+  "name": "@allenpallath/basic-lib",
   "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^19.1.0",

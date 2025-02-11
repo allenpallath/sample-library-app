@@ -11,6 +11,7 @@
   },
   "private": true,
   "dependencies": {
+    "@allenpallath/basic-lib": "file:allenpallath-basic-lib-1.0.0.tgz",
     "@angular/animations": "^19.1.0",
     "@angular/cdk": "^19.1.2",
     "@angular/common": "^19.1.0",

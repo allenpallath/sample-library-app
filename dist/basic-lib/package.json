@@ -1,6 +1,6 @@
 {
-  "name": "@allenpallth/basic-lib",
-  "version": "0.0.0-watch+1739253916400",
+  "name": "@allenpallath/basic-lib",
+  "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^19.1.0",
     "@angular/core": "^19.1.0",
@@ -10,7 +10,7 @@
     "tslib": "^2.3.0"
   },
   "sideEffects": false,
-  "module": "fesm2022/allenpallth-basic-lib.mjs",
+  "module": "fesm2022/allenpallath-basic-lib.mjs",
   "typings": "index.d.ts",
   "exports": {
     "./package.json": {
@@ -18,7 +18,7 @@
     },
     ".": {
       "types": "./index.d.ts",
-      "default": "./fesm2022/allenpallth-basic-lib.mjs"
+      "default": "./fesm2022/allenpallath-basic-lib.mjs"
     }
   }
 }
